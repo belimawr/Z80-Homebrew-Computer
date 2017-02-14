@@ -29,7 +29,6 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:Zilog
-LIBS:Arduino_Mega-cache
 LIBS:leds
 LIBS:switches
 LIBS:Z80v01-cache
