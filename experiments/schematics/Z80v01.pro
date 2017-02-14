@@ -1,4 +1,4 @@
-update=Seg 13 Fev 2017 23:26:53 BRST
+update=Ter 14 Fev 2017 00:19:44 BRST
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,6 +60,5 @@ LibName28=contrib
 LibName29=valves
 LibName30=kicad-library/library/atmel
 LibName31=kicad-library/library/Zilog
-LibName32=kicad-library/template/Arduino_Mega_R3/Arduino_Mega-cache
-LibName33=kicad-library/library/leds
-LibName34=kicad-library/library/switches
+LibName32=kicad-library/library/leds
+LibName33=kicad-library/library/switches
