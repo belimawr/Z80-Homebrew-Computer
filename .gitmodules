@@ -1,0 +1,3 @@
+[submodule "experiments/schematics/kicad-library"]
+	path = experiments/schematics/kicad-library
+	url = git@github.com:KiCad/kicad-library.git
