@@ -1,3 +1,9 @@
 Z80 Homebrew Computer
 ======================
 Repository to document all design/build process of a Z80 computer
+
+
+
+External Kikad libraries
+------------------------
+* [KiCad/kicad-library](https://github.com/KiCad/kicad-library)
