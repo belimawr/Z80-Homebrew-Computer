@@ -36,7 +36,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 2
+Sheet 1 3
 Title ""
 Date ""
 Rev ""
@@ -54,4 +54,12 @@ F1 "exp01_flashing_LEDs.sch" 60
 $EndSheet
 Text Notes 850  1150 0    60   ~ 0
 First experiment.\nFlashing LEDs - Z80 Style 
+$Sheet
+S 2450 750  1450 700 
+U 58B3FB39
+F0 "LED_Debug_Board" 60
+F1 "LED_Debug_Board.sch" 60
+$EndSheet
+Text Notes 2550 1150 0    60   ~ 0
+Z80 Prototype board\nLEDs/Debug board 
 $EndSCHEMATC
